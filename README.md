@@ -3,5 +3,3 @@
 🔭 I’m currently working at MathWorks as a Software Engineering Intern
 
 🌱 I’m currently studying Computer Science and Mathematics at RPI
-
-📫 How to reach me: nprisament@gmail.com
